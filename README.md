@@ -15,8 +15,6 @@ I'm Dmytro Holovnia, a passionate software developer and learner. Welcome to my 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytHol&layout=compact&theme=dark)
 
-<!-- Visitor Badge -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=DmytHol.DmytHol)
 
 <!-- LinkedIn Badge -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-holovnia/)](https://www.linkedin.com/in/dmytro-holovnia/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-holovnia/)](https://www.linkedin.com/in/dmytro-holovnia-5860bb257/)
